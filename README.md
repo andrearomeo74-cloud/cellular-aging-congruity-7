@@ -3,7 +3,15 @@ A theoretical and observational framework for studying cellular aging as a loss 
 > **IP / Scope Notice:** see [IP_NOTICE.md](./IP_NOTICE.md)  
 > Open science (discussion + observation). Protected structure (no implementation details).
 A proportionality-based theoretical framework (Congruity 7.0) for modeling, measuring, and potentially halting cellular aging through systemic coherence, energy balance, and information integrity.
+
+## How to cite
+If you discuss or build upon this framework, please cite the following repository:
+
+**Andrea Romeo. _Congruenza dell’invecchiamento cellulare 7.0 (Congruity 7.0)_.**  
+GitHub repository, 2026. Version: Congruity 7.0.  
+(Include the commit hash or release tag when available.)
 Congruenza dell’invecchiamento cellulare 7.0
+
 Abstract
 L’invecchiamento cellulare viene tradizionalmente descritto come un processo multifattoriale guidato dall’accumulo di danni molecolari, instabilità epigenetica, disfunzione mitocondriale e perdita di omeostasi. In questo lavoro introduciamo un quadro teorico unificante basato sul principio di Congruità (Congruity 7.0), che interpreta l’invecchiamento come una perdita progressiva di proporzionalità sistemica tra energia, informazione, struttura e funzione.
 Il modello propone che il declino cellulare emerga quando il sistema supera soglie critiche di incoerenza, indipendentemente dal singolo meccanismo biochimico coinvolto. Viene delineata una formulazione concettuale che consente di misurare la congruità cellulare e di identificare, in linea teorica, condizioni di arresto o rallentamento dell’invecchiamento biologico.
