@@ -1,5 +1,7 @@
 # Cellular-Aging-Congruity-7.0
 A theoretical and observational framework for studying cellular aging as a loss of proportionality, using reproducible indicators derived from public datasets.
+> **IP / Scope Notice:** see [IP_NOTICE.md](./IP_NOTICE.md)  
+> Open science (discussion + observation). Protected structure (no implementation details).
 A proportionality-based theoretical framework (Congruity 7.0) for modeling, measuring, and potentially halting cellular aging through systemic coherence, energy balance, and information integrity.
 Congruenza dell’invecchiamento cellulare 7.0
 Abstract
