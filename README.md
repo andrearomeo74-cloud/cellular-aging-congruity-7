@@ -72,3 +72,14 @@ Autore
 Andrea Romeo
 Congruity Framework – 7.0
 Teoria della proporzionalità applicata ai sistemi complessi biologici
+## Next steps (planned)
+The next planned steps focus on scientific validation at a conceptual and observational level, without disclosing implementation logic.
+
+Planned directions include:
+- Comparative analysis between Congruity-based indicators and existing aging measures (e.g. epigenetic clocks), focusing on divergence patterns rather than predictive accuracy.
+- Longitudinal observation of proportionality loss across energy, information, and structural domains using public datasets.
+- Identification of coherence thresholds as emergent phenomena, not as fixed decision rules.
+- Evaluation of reversibility signals as partial restoration of proportionality rather than full rejuvenation.
+- Cross-scale consistency checks (cellular → tissue-level signals) to assess systemic alignment.
+
+All future steps are intended for open scientific discussion and independent replication, while preserving the protected structure of the framework.
