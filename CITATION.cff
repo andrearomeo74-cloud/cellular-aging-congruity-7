@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or build upon this framework, please cite it as below."
+type: software
+title: "Congruenza dell’invecchiamento cellulare 7.0 (Congruity 7.0)"
+authors:
+  - family-names: "Romeo"
+    given-names: "Andrea"
+repository-code: "https://github.com/andrearomeo74-cloud/congruenza-dell-invecchiamento-cellulare-7"
+abstract: "A theoretical and observational framework (Congruity 7.0) for studying cellular aging as a loss of proportionality across energy, information, and structural integrity, using reproducible indicators derived from public datasets. Open scientific discussion; protected structure (no implementation details)."
+keywords:
+  - "cellular aging"
+  - "aging"
+  - "systems biology"
+  - "proportionality"
+  - "congruity"
+  - "epigenetics"
+license: "CC-BY-NC-SA-4.0"
